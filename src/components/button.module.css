@@ -1,0 +1,16 @@
+.customBtn {
+  background-color: #1d911d !important;
+  border: none;
+  border-radius: 16px !important;
+  font-weight: 700 !important;
+  padding: 0.6rem 0.9rem !important;
+  border: 1px solid #156b15 !important;
+}
+
+.customBtn:hover {
+  background-color: #156b15 !important;
+}
+
+.customBtn:active {
+  background-color: #0f4d0f;
+}
